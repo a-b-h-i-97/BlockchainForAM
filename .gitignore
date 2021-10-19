@@ -1,0 +1,6 @@
+*.pyc
+.vscode/
+DesignDatabase/contract_address
+DesignNode/
+PrintNode/
+testChain/
